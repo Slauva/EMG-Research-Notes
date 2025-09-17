@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2efa22f4fdfbb447",
+        "id": "5fd93199888d3944",
         "type": "tabs",
         "children": [
           {
-            "id": "1efb69109ba55617",
+            "id": "a946e1aefecbf352",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "templates/Article Review Template.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Article Review Template"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/Article Review Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Article Review Template"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/Article Review Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Article Review Template"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "templates/Article Review Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Article Review Template"
             }
           },
           {
@@ -174,9 +181,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1efb69109ba55617",
+  "active": "a946e1aefecbf352",
   "lastOpenFiles": [
-    "Untitled.md",
+    "2022 – Machine learning methods for electromyography error detection in field research An application in full-shift field assessment of shoulder muscle activity in apple harvesting workers/review.md.md",
+    "templates/Article Review Template.md",
+    "2022 – Machine learning methods for electromyography error detection in field research An application in full-shift field assessment of shoulder muscle activity in apple harvesting workers/assets",
+    "2022 – Machine learning methods for electromyography error detection in field research An application in full-shift field assessment of shoulder muscle activity in apple harvesting workers",
+    "review.md.md",
+    "articles/2022 – Machine learning methods for electromyography error detection in field research An application in full-shift field assessment of shoulder muscle activity in apple harvesting workers/assets",
+    "articles/2022 – Machine learning methods for electromyography error detection in field research An application in full-shift field assessment of shoulder muscle activity in apple harvesting workers",
+    "articles/Untitled.md",
+    "2022 – Machine learning methods for electromyography error detection in field research An application in full-shift field assessment of shoulder muscle activity in apple harvesting workers.md",
+    "articles",
+    "2024 – Assessment of Self-report, Palpation, and Surface Electromyography Dataset During Isometric Muscle Contraction.md",
+    "templates/Article Review.md",
+    "templates",
     "Welcome.md"
   ]
 }
